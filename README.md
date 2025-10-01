@@ -1,2 +1,4 @@
 Petit dépôt d'entrainement
-- Ligne ajoutée directement sur main.
+<<<<<<< HEAD
+- Ligne modifiée différemment sur la branche feature.
+>>>>>>> origin/main
