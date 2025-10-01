@@ -1,2 +1,2 @@
 Petit dépôt d'entrainement
-- Nouvelle ligne ajoutée depuis la branche feature.
+- Ligne modifiée différemment sur la branche feature.
